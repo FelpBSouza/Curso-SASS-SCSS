@@ -1,0 +1,28 @@
+ pre processador é um software que recebe uma entrada de dados e gera uma saida
+ variaveis: reapoveitamento de estilos em todos o projeto,facilidade de manutenção
+
+ nesting encadeamento de seletores de css
+
+ partials divisão de responsabilidade no css
+
+ mixins especie de funcão para reaproveitamento de estilos
+
+ diferenca entre SASS x SCSS x CSS
+
+ O sASS e o SCSS são bem parecidos porem o SASS possui mais recursos e tem uma sintaxe mais simples
+
+ ambos tem o mesmo papel,trazer funcionalidades novas ao css
+
+ podemos pre-processar o SCSS com o SASS tbm
+ no fim todo o codigo gerado vira CSS PURO e aceito nos navegadores
+
+ e é possivel que futuramente estas funcionalidades de SASS e SCSS ou outros pre-processadores estejam no CSS
+
+ tem que instalar o nodejs
+ 
+ Comandos SASS:
+ sass/styles.sass css/styles.css
+
+ comando para att auto
+ sass --watch sass/styles.sass:css/styles.css
+ 
