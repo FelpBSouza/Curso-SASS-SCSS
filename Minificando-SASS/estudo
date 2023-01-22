@@ -1,0 +1,8 @@
+podemos gerar css minificado facilmente com o interpretador
+
+na saida do comando watch, vamos mudar a extensão
+
+de styles.css
+para styles.min.css
+
+comando sass --watch sass/styles.sass:css/styles.min.css --style compressed
