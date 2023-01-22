@@ -1,0 +1,11 @@
+comentarios no SASS :
+// não esta no css,1 linha
+
+/* é incluno no css,varias linhas
+
+/*! incluno no css,ate no modo de compressã0
+
+podemos interpolar valores nos comentarios tbm,ex #{1+3}
+inserir valores dinamicos em valores estaticos
+
+
